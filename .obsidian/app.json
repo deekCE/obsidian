@@ -1,3 +1,14 @@
 {
-  "promptDelete": false
+  "promptDelete": true,
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "es-US"
+  ],
+  "vimMode": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./"
 }
